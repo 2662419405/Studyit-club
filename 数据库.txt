@@ -1,0 +1,194 @@
+create database itstudy;
+
+use itstudy
+
+create table user
+(
+id int(10) auto_increment primary key comment '学生主键',
+username varchar(50) comment '学生姓名',
+password varchar(50) comment '学生密码',
+addtime char(10) comment '注册时间',
+avatar varchar(255) comment '头像',
+posts_num int(8) default 0 comment '发帖的数量',
+hui_num int(8) default 0 comment '回帖的数量',
+follows_num int(8) default 0 comment '关注数量',
+fans_num int(8) default 0 comment '粉丝的数量',
+last_addtime varchar(50) comment '最后一次登录时间',
+type int(10) default -1 comment '表示是否有安全提示',
+type_answer text comment '对应的答案',
+sex tinyint(1) default 0 comment '性别:0保密,1男,2女',
+qq varchar(50) comment 'QQ号',
+tel varchar(50) comment '手机号',
+email varchar(50) comment '邮箱',
+bir text comment '生日',
+chusheng text comment '出生地',
+juzhu text comment '居住地',
+qinggan text comment '情感状况',
+true_name text comment '真实姓名',
+xue text comment '血型',
+jieshao text comment '自我介绍',
+qianming text comment '个性签名',
+aihao text comment '兴趣爱好'
+);
+
+//报名开发者团队
+create table kaifa
+(
+id int(10) auto_increment primary key comment '报名主键',
+addtime text comment '提交时间',
+username text comment '提交姓名',
+qq varchar(50) comment 'QQ号',
+tel varchar(50) comment '手机号',
+email varchar(50) comment '邮箱',
+why text comment '理由',
+jishu text comment '技术',
+result int(2) comment '判断是否通过'
+)
+
+//象棋游戏
+create table chess_game
+(
+id int(10) auto_increment primary key comment '主键',
+name varchar(25) comment '房间名称',
+guest varchar(25) comment '黑旗名称',
+host varchar(25) comment '红旗名称',
+flag enum('guest','host') default 'host' comment '旗的标志',
+chess varchar(800) comment '全部的旗子',
+time_guest int(12) comment '黑旗的登录时间',
+time_host int(12) comment '红旗的登录时间',
+time int(12) comment '当前的时间',
+moved varchar(5) comment '保存旗子的开始位置和目标位置',
+eated varchar(5) comment '保存被吃掉的旗子',
+guest_win int(9) default 0 comment '保存黑旗胜利次数',
+host_win int(9) default 0 comment '保存红旗胜利次数',
+message_guest varchar(255) comment '黑旗的聊天信息',
+message_host varchar(255) comment '红旗的聊天信息'
+)
+
+//帖子
+create table tie
+(
+id int(10) auto_increment primary key comment '主键',
+addtime text comment '发帖时间',
+last_addtime text comment '最后一次活跃的时间',
+guan_main text comment '关联主贴',
+admin text comment '作者',
+last_admin text comment '最后一次说话的人',
+type int(5) comment '帖子所属板块1:c语言',
+te varchar(50) comment '特性',
+title text comment '帖子的标题',
+cha int(10) default 0 comment '查看数量',
+hui int(10) default 0 comment '回复数量'
+)
+
+//帖子内容
+create table tie_main
+(
+id int(10) auto_increment primary key comment '主键',
+guan_main text comment '关联主贴',
+addtime text comment '回复时间',
+content text comment '回复内容',
+type int(10) default 0 comment '查看回复的是否是楼主0:楼主',
+`from` text comment '如果不是楼主回复，谁回复的',
+`to` text comment '如果不是楼主回复，回复给谁的',
+hui_type int(10) comment '代表楼主信息',
+lou int(2) default 0 comment '代表是否是楼主首帖0:首帖'
+)
+
+//版块区
+create table ban
+(
+id int(10) auto_increment primary key comment '主键',
+title text comment '板块名字',
+type int(5) comment '帖子所属板块1:c语言 2:css 3:android 4:java 5:javaweb 6 php 7 net 8 jsp  10 c++ 11c# 12 jquery 13 python',
+type_data int(5) default 0 comment '0:编程语言,1:该数据库'
+)
+
+//学习资源
+create table study
+(
+id int(10) auto_increment primary key comment '主键',
+url text comment '链接',
+get text comment '提取码',
+type int(10) comment '类型:1前段2高级3服务器4数据库5其他开发6算法',
+title varchar(255) comment '标题',
+size varchar(255) comment '大小',
+content text comment '说明',
+addtime text comment '添加时间',
+admin text comment '添加人姓名'
+)
+
+//个人空间
+create table geren
+(
+id int(10) auto_increment primary key comment '主键',
+fang int(10) default 0 comment '空间访客',
+zan int(10) default 0 comment '空间点赞数',
+title text comment '空间内容介绍',
+user_id int(10) comment '绑定用户id'
+)
+
+//提交的信息表
+create table post 
+(
+id int(8) primary key auto_increment comment '主键',
+content text comment '信息内容',
+addtime varchar(50) comment '发布时间',
+username varchar(200) comment '用户名',
+user_id int(8) comment '用户id',
+pid int(8) comment '父id',
+post_type tinyint(1) default 0 comment '信息标识0发布1评论2转发',
+parent_user_id int(8) comment '回复人id',
+pictures text comment '信息图片',
+forward_num int(8) default 0 comment '转发数量',
+comment_num int(8) default 0 comment '评论数',
+praise_num int(8) default 0 comment '点赞数'
+)
+
+//好友表
+create table friends 
+(
+id int(8) primary key auto_increment comment '主键',
+user_id int(8) comment '用户id',
+username varchar(200) comment '用户名',
+friend_id int(8) comment '好友id',
+addtime char(8) comment '添加时间',
+status int(10)
+)
+
+//粉丝表
+create table at
+(
+id int(8) primary key auto_increment comment '主键',
+user_id int(8) comment '用户id',
+friend_id int(8) comment '粉丝id',
+status tinyint(1) comment '1关注别人，2别人关注自己',
+addtime char(8) comment '关注时间' 
+)
+
+//点赞表
+create table praise
+(
+id int(8) primary key auto_increment comment '主键',
+user_id int(8) comment '用户id',
+post_id int(8) comment '主人id'
+)
+
+//空间访问表
+create table kong
+(
+id int(8) primary key auto_increment comment '主键',
+f int(8) comment '谁访问',
+t int(8) comment '访问谁',
+addtime text comment '访问时间'
+)
+
+//留言板
+create table liuyan
+(
+id int(10) auto_increment primary key comment '主键',
+username varchar(50) comment '学生姓名',
+hidden tinyint(1) default 0 comment '设置是否隐藏',
+addtime varchar(10) comment '留言时间',
+content text comment '留言的内容'
+)
