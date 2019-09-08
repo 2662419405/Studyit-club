@@ -1,0 +1,23 @@
+Time : 15:12:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'username' in 'field list'
+Raw SQL : insert into message ( username , true_sum ,false_sum ,user_id) VALUE ( :username ,0,0,:user_id)
+
+Time : 15:09:42
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'username' in 'field list'
+Raw SQL : insert into message ( username , true_sum ,false_sum ,user_id) VALUE ( :username ,0,0,:user_id)
+
+Time : 07:35:42
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user' in 'where clause'
+Raw SQL : select count(*) from message where receiver = user
+
+Time : 07:35:27
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user' in 'where clause'
+Raw SQL : select count(*) from message where receiver = user
+
+Time : 07:35:20
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user' in 'where clause'
+Raw SQL : select count(*) from message where receiver = user
+
+Time : 07:35:11
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user' in 'where clause'
+Raw SQL : select count(*) from message where receiver = user

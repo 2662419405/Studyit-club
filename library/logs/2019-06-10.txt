@@ -1,0 +1,23 @@
+Time : 05:47:56
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'
+Raw SQL : select * from liuyan where name = :username order by id desc limit :num
+
+Time : 05:43:25
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'
+Raw SQL : select * from liuyan where name = :username order by id desc limit :num
+
+Time : 05:21:47
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.liuyan' doesn't exist
+Raw SQL : select * from liuyan where name = :username order by id desc limit :num
+
+Time : 04:50:13
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 04:43:36
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 04:43:22
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1

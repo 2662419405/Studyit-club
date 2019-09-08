@@ -1,0 +1,7 @@
+Time : 12:48:30
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'addtime' in 'order clause'
+Raw SQL : select * from exam_problem order by addtime desc limit 0,10
+
+Time : 08:53:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'esc limit 80,20' at line 1
+Raw SQL : select * from user order by addtime esc limit 80,20

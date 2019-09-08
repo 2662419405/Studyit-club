@@ -1,0 +1,775 @@
+Time : 05:45:10
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:45:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:45:08
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:45:07
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:45:06
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:45:05
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:45:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:45:01
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:45:00
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:58
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:57
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:56
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:55
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:53
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:52
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:51
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:48
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:47
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:46
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:45
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:43
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:42
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:41
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:40
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:38
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:37
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:36
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:35
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:33
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:32
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:31
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:30
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:28
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:27
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:26
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:25
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:23
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:22
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:21
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:20
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:18
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:17
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:16
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:15
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:13
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:12
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:11
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:10
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:08
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:07
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:06
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:03
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:02
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:01
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:44:00
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:58
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:57
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:56
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:55
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:53
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:52
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:51
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:50
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:48
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:47
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:46
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:45
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:43
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:42
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:41
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:40
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:38
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:37
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:36
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:35
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:33
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:32
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:31
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:30
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:28
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:27
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:26
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:25
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:22
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:21
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:20
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:18
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:17
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:16
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:15
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:13
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:12
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:11
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:10
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:07
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:06
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:05
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:43:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:42:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:42:53
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:42:52
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:42:51
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:42:50
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:42:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:42:48
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:42:47
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:42:46
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:42:45
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:42:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:42:43
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:42:42
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:42:08
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:42:07
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:42:05
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:42:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:42:03
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:42:02
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:42:01
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:42:00
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:58
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:57
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:56
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:55
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:53
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:52
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:51
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:50
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:48
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:47
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:46
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:45
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:43
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>-1 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:42
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:41
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:40
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:38
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:37
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:36
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:35
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:33
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:31
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:30
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:28
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:27
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:26
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:25
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>24 ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>NaN ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:23
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>NaN ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:22
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>NaN ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:20
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>NaN ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>NaN ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:18
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>NaN ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:17
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>NaN ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:16
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>NaN ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:15
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>NaN ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:13
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'msg' in 'field list'
+Raw SQL : SELECT ID, msg, name ,addtime FROM liuyan WHERE ID>NaN ORDER BY ID DESC LIMIT 1
+
+Time : 05:41:12
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 05:41:11
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 05:41:10
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 05:41:09
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 05:41:08
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 05:41:07
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 05:41:06
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 05:41:05
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 05:41:04
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 05:41:03
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 05:41:02
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 05:41:01
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty

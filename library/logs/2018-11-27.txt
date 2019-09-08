@@ -1,0 +1,15 @@
+Time : 09:41:01
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : select * from user where username = :username and password = :password
+
+Time : 09:40:44
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : select * from user where username = :username and password = :password
+
+Time : 09:40:29
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : select * from user where username = :username and password = :password
+
+Time : 09:39:47
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : select * from user where username = :username and password = :password

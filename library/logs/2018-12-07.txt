@@ -1,0 +1,11 @@
+Time : 10:49:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'esc limit 0,4' at line 1
+Raw SQL : select * from user order by addtime esc limit 0,4
+
+Time : 10:48:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by addtime desc 0,4' at line 1
+Raw SQL : select * from user limit order by addtime desc 0,4
+
+Time : 10:48:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by addtime esc 0,4' at line 1
+Raw SQL : select * from user limit order by addtime esc 0,4

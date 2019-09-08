@@ -1,0 +1,21 @@
+Time : 13:51:22
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 13:51:19
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 13:51:16
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 13:51:13
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 13:51:10
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 13:51:07
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 11:36:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where username = ?' at line 1
+Raw SQL : update user set last_addtime where username = :username

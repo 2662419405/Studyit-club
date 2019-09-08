@@ -1,0 +1,76 @@
+/* CSS Document */
+body{
+	background-color: #B7EB5B;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(../images/bg_pic.png);
+	background-size:100%;
+	background-repeat:no-repeat;
+}
+td{
+	font-size:9pt;
+}
+A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.style1{
+	font-size:24px;
+	font-family:"楷体";
+}
+.tab{
+	width:460px;
+	border:1px;
+	margin-top:20%;
+	margin-left:20%;
+}
+.tab1{
+	width:360px;
+	border:1px;
+	margin-left:23%;
+}
+.font{
+	font-size:18px;
+}
+.text{
+	width:200px;
+	height:36px;
+	border:0px;
+	border-color:rgba(0,0,0,0);
+	margin-left:20px;
+	background-color:rgba(0,0,0,0);
+	font-size:16px;
+}
+.input{
+	background-image:url(../images/input.png);
+	background-size:100%;
+	background-repeat:no-repeat;
+}
+.change_button{
+	background:url(../images/change.png);
+	background-size:100%;
+	background-repeat:no-repeat;
+	width:100px; 
+	height:46px; 
+	overflow:hidden; 
+	display:block;
+}
+.create_button{
+	background:url(../images/create.png);
+	background-size:100%;
+	background-repeat:no-repeat;
+	width:100px; 
+	height:46px; 
+	overflow:hidden; 
+	display:block;
+}

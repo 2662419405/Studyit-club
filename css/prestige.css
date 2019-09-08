@@ -1,0 +1,876 @@
+.b-table {
+    width: 100%;
+}
+
+.b-table thead th {
+    background: #e1eef6;
+    border-top: 1px solid #a0c1d7;
+    border-bottom: 1px solid #a0c1d7;
+    color: #666;
+    height: 38px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.b-table td {
+    height: 44px;
+    text-align: center;
+}
+
+.b-table .even {
+    background: #f7fbfd;
+}
+
+.b-table td {
+    border-bottom: 1px solid #eff3f6;
+}
+
+.b-table tr:hover {
+    background: #fcf4d0!important;
+}
+
+.b-table .unfollow {
+    color: #369;
+}
+
+.b-table .game {
+    position: relative;
+}
+
+.b-table .game i {
+    position: absolute;
+    top: -5px;
+    margin: 0 0 0 2px;
+    width: 24px;
+    height: 14px;
+    line-height: 14px;
+    background: url(http://ue.17173cdn.com/a/bbs/shengwang/prestige-bg.png) no-repeat -55px -132px;
+}
+
+.prank-backimg {
+    display: inline-block;
+    zoom: 1;
+    width: 140px;
+    height: 32px;
+    line-height: 34px;
+    *line-height: 37px;
+    position: relative;
+    text-align: left;
+    overflow: hidden;
+    text-indent: 13px;
+    margin-top: -4px;
+}
+
+/**
+ * 个人中心展示 - 关注的板块
+ */
+#pprl .mbplt {
+    margin: 15px 0 -15px 0
+}
+
+#pprl .mbplt li {
+    padding: 0;
+    display: inline-block;
+    zoom: 1;
+    text-align: center;
+    margin: 0 20px 15px 0;
+    *display: inline;
+    clear: none;
+}
+
+#pprl .mbplt .tl {
+    display: block;
+    text-align: center;
+}
+
+/**
+ * 声望展示
+ */
+.rank-value {
+    position: relative;
+}
+
+.rank-value .rank-value-tip {
+    position: absolute;
+    left: 36px;
+    bottom: 35px;
+    padding: 5px;
+    display: none;
+}
+
+.rank-value .rank-value-tip em {
+    display: block;
+}
+
+.rank-value .rank-value-tip a {
+    display: block;
+    text-align: right;
+    color: #369;
+}
+
+.rank-value .rank-value-tip i {
+    position: absolute;
+    background: url(http://att.bbs.duowan.com/static/image/common/tip_bottom.png);
+    width: 11px;
+    height: 6px;
+    overflow: hidden;
+    left: 5px;
+    bottom: -6px;
+}
+
+.rank-value span {
+    display: block;
+    margin: 0 10px;
+}
+
+
+/**
+ * 声望说明
+ */
+.renown-box {
+}
+
+.renown-box .renown-tab {
+    border-bottom: 2px solid #c2d5e3;
+    padding: 0 0 0 15px;
+    zoom: 1;
+    position: relative;
+}
+
+.renown-box .renown-tab ul {
+    margin-bottom: -2px;
+    position: relative;
+}
+
+.renown-box .renown-tab li {
+    float: left;
+    background: #e7eef4;
+    margin: 0 5px;
+    display: inline;
+}
+
+.renown-box .renown-tab a {
+    display: block;
+    width: 215px;
+    padding: 10px 0 12px;
+    border-bottom: 2px solid #c2d5e3;
+}
+
+.renown-box .renown-tab span {
+    display: block;
+    text-indent: -999em;
+    width: 170px;
+    height: 34px;
+    overflow: hidden;
+    background: url(http://ue.17173cdn.com/a/bbs/shengwang/renown-tab-bg.png);
+    margin: 0 auto;
+}
+
+.renown-box .renown-tab .tab-2 span {
+    background-position: -170px 0;
+}
+
+.renown-box .renown-tab .tab-3 span {
+    background-position: -340px 0;
+}
+
+.renown-box .renown-tab .tab-4 span {
+    background-position: -510px 0;
+}
+
+.renown-box .renown-tab .current {
+    background: #fff;
+}
+
+.renown-box .renown-tab .current a {
+    border: 2px solid #c2d5e3;
+    border-bottom-color: #fff;
+    width: 211px;
+    padding: 8px 0 12px;
+}
+
+.renown-box .renown-tab .current .tab-1 span {
+    background-position: 0 -34px;
+}
+
+.renown-box .renown-tab .current .tab-2 span {
+    background-position: -170px -34px;
+}
+
+.renown-box .renown-tab .current .tab-3 span {
+    background-position: -340px -34px;
+}
+
+.renown-box .renown-tab .current .tab-4 span {
+    background-position: -510px -34px;
+}
+
+.renown-box .renown-cont {
+    padding: 0 35px 50px;
+}
+
+.renown-box .renown-rank {
+    float: right;
+    width: 183px;
+    border: 1px solid #e3d59a;
+    background: #fcf4d1;
+    margin: 30px 0 0 0;
+    padding: 10px 0 0;
+}
+
+.renown-box .renown-rank h4 {
+    color: #fff;
+    display: inline-block;
+    zoom: 1;
+    height: 28px;
+    background: url(http://ue.17173cdn.com/a/bbs/shengwang/pennant.png) no-repeat 0 -25px;
+    padding: 0 0 0 4px;
+    position: relative;
+    left: -4px;
+    *display: inline;
+}
+
+.renown-box .renown-rank h4 span {
+    display: inline-block;
+    height: 25px;
+    line-height: 25px;
+    padding: 0 28px 0 6px;
+    background: url(http://ue.17173cdn.com/a/bbs/shengwang/pennant.png) no-repeat right 0;
+    zoom: 1;
+    *display: inline;
+}
+
+.renown-box .renown-rank .rank-num {
+    background: url(http://ue.17173cdn.com/a/bbs/shengwang/pennant.png) no-repeat 0 -53px;
+    height: 54px;
+    width: 154px;
+    margin: 13px auto 20px;
+    font-size: 16px;
+    line-height: 54px;
+    color: #666;
+    text-align: center;
+}
+
+.renown-box .renown-rank .rank-num strong {
+    color: #f60;
+    font-weight: 400
+}
+
+.renown-box .renown-rank .rank-lev {
+    ;margin: 5px 0 18px;
+    padding: 0 0 0 22px;
+}
+
+.renown-box .renow-txt {
+    padding: 20px 0 0 0;
+    width: 630px;
+}
+
+.renown-box .renow-txt p {
+    font-family: "Microsoft yahei";
+    line-height: 26px;
+    font-size: 14px;
+    margin: 0 0 20px;
+}
+
+.renown-box .renow-txt img {
+    display: block;
+    margin: 0 0 30px;
+}
+
+.renown-box .rule-table {
+    width: 630px;
+    margin: 0 0 140px;
+}
+
+.renown-box .rule-table th,
+.renown-box .rule-table td {
+    height: 28px;
+    line-height: 28px;
+    color: #666;
+}
+
+.renown-box .rule-table th {
+    background: #fcf4d1;
+    border-color: #e3d59a;
+}
+
+.renown-box .rule-table td {
+    border-color: #e5ebf0;
+}
+
+.renown-box .rule-table .bonus {
+    color: #f60;
+    font-weight: 700
+}
+
+.renown-box .b-table {
+    font-size: 12px;
+    margin: 10px 0 0;
+}
+
+.renown-box .renown-page {
+    text-align: center;
+    padding: 30px 0 50px;
+}
+
+.renown-box .renown-page .pgs {
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+}
+
+.renown-box .renown-page .pgb a {
+    padding: 0 12px;
+    background-position: 5px 50%;
+}
+
+.renown-box .two-col table {
+    width: 315px;
+    float: left;
+}
+
+.renown-box .two-col .b-table2 tr {
+    border-left: 1px solid #e5ebf0;
+}
+
+.renown-box .two-col .b-table2 thead tr {
+    border-left: 1px solid #a0c1d7;
+}
+
+/**
+ * 关注按钮
+ */
+.follow-btn,
+.load-btn,
+.followed-btn {
+    height: 23px;
+    line-height: 23px;
+    width: 55px;
+    text-align: center;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 400;
+    background: url(http://ue.17173cdn.com/a/bbs/shengwang/prestige-bg.png) no-repeat 0 -132px;
+}
+
+.follow-show {
+    display: inline-block;
+}
+
+.follow-hidden {
+    display: none;
+}
+
+.follow-btn:hover,
+.load-btn:hover,
+.followed-btn:hover {
+    text-decoration: none;
+}
+
+.follow-btn:hover {
+    background-position: 0 -155px;
+}
+
+.load-btn {
+    background-position: 0 -201px;
+    color: #999;
+    width: 65px;
+}
+
+.followed-btn {
+    background-position: 0 -178px;
+    color: #666;
+}
+
+.cancel-btn {
+    display: inline-block;
+    height: 23px;
+    line-height: 23px;
+    font-size: 12px;
+    font-weight: 400;
+    color: #369;
+    vertical-align: top
+}
+
+.load-btn img {
+    position: relative;
+    top: 4px;
+    margin: 0 2px 0 0;
+}
+
+.forum-info h1.xs2 span.i {
+    padding: 0 10px;
+}
+
+.checkin-btn,
+.re-checkin-btn,
+.in-checkin-btn {
+    float: left;
+    margin-right: 5px;
+    width: 90px;
+    height: 33px;
+    background: url(http://ue.17173cdn.com/a/bbs/shengwang/prestige-bg.png) no-repeat 0 0;
+    position: relative;
+}
+
+.checkin-btn:hover {
+    background-position: 0 -33px;
+}
+
+.re-checkin-btn {
+    background-position: 0 -66px;
+    cursor: text;
+}
+
+.in-checkin-btn {
+    background-position: 0 -99px;
+}
+
+.checkin-btn span,
+.re-checkin-btn span,
+.in-checkin-btn span {
+    display: none;
+}
+
+.in-checkin-btn img {
+    position: relative;
+    top: 9px;
+    left: 13px;
+}
+
+.pop-rank {
+    position: absolute;
+    padding: 0 12px;
+    width: 154px;
+    border: 1px solid #DDD;
+    min-width: 60px;
+    background: #FEFEFE;
+    box-shadow: 1px 2px 2px rgba(0,0,0,0.3);
+    display: none;
+}
+
+.pop-rank span {
+    display: block;
+}
+
+.pop-rank .link {
+    display: block;
+    text-align: right;
+    padding: 2px 0 6px;
+}
+
+.pop-rank .p {
+    padding: 4px 0;
+}
+
+.pop-rank .link a {
+    color: #369;
+    margin-left: 2px
+}
+
+
+/**
+ * 签到日记
+ */
+.checkin-diary {
+    width: 360px;
+    border: 1px solid #f1df7d;
+    background: #fff9dd;
+    zoom: 1;
+    position: absolute;
+    display: none;
+}
+
+.checkin-diary:after {
+    height: 0;
+    line-height: 0;
+    clear: both;
+    content: ".";
+    visibility: hidden;
+    display: block;
+}
+
+.checkin-diary i.b {
+    width: 18px;
+    height: 10px;
+    overflow: hidden;
+    line-height: 0;
+    position: absolute;
+    left: 36px;
+    top: -10px;
+    background: url(http://ue.17173cdn.com/a/bbs/shengwang/prestige-bg.png) no-repeat -55px -182px;
+}
+
+.checkin-diary-l {
+    float: left;
+    padding: 0 0 0 10px;
+    width: 196px;
+}
+
+.checkin-diary-l .diary-title {
+    text-align: center;
+    color: #666;
+    border-bottom: 1px solid #cccc99;
+    padding: 8px 0
+}
+
+.checkin-diary-l .diary-title h3 {
+    font-size: 16px;
+    font-family: "Microsoft Yahei"
+}
+
+.checkin-diary-l .diary-title strong {
+    font-weight: 400;
+    color: #f90;
+}
+
+.checkin-diary-l .datepicker-title {
+    font-family: "Microsoft Yahei";
+    line-height: 30px;
+}
+
+.checkin-diary-l p {
+    padding: 8px 0;
+}
+
+.checkin-diary-l p strong {
+    font-weight: 400;
+    color: #f90;
+}
+
+.checkin-diary-r {
+    float: left;
+    width: 110px;
+    padding: 9px 9px 0 15px;
+}
+
+.checkin-diary-r .img img {
+    width: 110px;
+    height: 40px;
+    display: block;
+}
+
+.checkin-diary-r .rank {
+    color: #666;
+}
+
+.checkin-diary-r .rank h4 {
+    font-family: "Microsoft Yahei";
+    font-size: 12px;
+    font-weight: 400;
+    color: #333;
+    border-bottom: 1px solid #cccc99;
+    padding: 10px 0 6px;
+}
+
+.checkin-diary-r .rank .more {
+    display: block;
+    font-size: 14px;
+    text-align: center;
+    padding: 8px 0 5px;
+}
+
+.checkin-diary-r .rank .update {
+    display: block;
+    text-align: center;
+    color: #999;
+    padding: 0 0 4px;
+}
+
+#datepicker {
+    margin-top: -22px;
+}
+
+.checkin-diary-r .mod-art li {
+    overflow: hidden;
+    height: 18px;
+    line-height: 18px;
+    list-style: none;
+}
+
+.checkin-diary-r .mod-art {
+    padding: 5px 0 0;
+}
+
+.checkin-diary-r .mod-art .num {
+    float: left;
+    -webkit-text-size-adjust: none;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    width: 16px;
+    font: 10px/12px verdana;
+    text-align: center;
+    margin: 3px 5px 0 0;
+    color: #fff;
+    background-color: #bbb;
+    font-style: normal;
+    letter-spacing: -2px;
+    text-indent: -3px;
+}
+
+.checkin-diary-r .mod-art a {
+    color: #666;
+}
+
+.checkin-diary-r .mod-art .first,
+.checkin-diary-r .mod-art .second,
+.checkin-diary-r .mod-art .third {
+    background-color: #ff9900;
+}
+
+.ui-datepicker .ui-datepicker-header {
+    background: #fff;
+    border: 1px solid #eee6bd;
+    width: 128px;
+    height: 22px;
+    line-height: 22px;
+    float: right;
+    border-bottom: 0;
+    position: relative;
+}
+
+.ui-datepicker .ui-datepicker-prev,
+.ui-datepicker .ui-datepicker-next {
+    position: absolute;
+    height: 22px;
+    width: 15px;
+    top: 0;
+    left: 0;
+    background: url(http://ue.17173cdn.com/a/bbs/shengwang/prestige-bg.png) no-repeat -80px -155px;
+}
+
+.ui-datepicker .ui-datepicker-next {
+    background-position: -80px -178px;
+}
+/*
+.ui-datepicker .ui-datepicker-prev-hover,
+.ui-datepicker .ui-datepicker-next-hover {
+
+}
+.ui-datepicker .ui-datepicker-prev {
+
+}
+*/
+.ui-datepicker .ui-datepicker-next {
+    left: auto;
+    right: 0;
+}
+/*
+.ui-datepicker .ui-datepicker-prev-hover {
+
+}
+.ui-datepicker .ui-datepicker-next-hover {
+
+}
+*/
+.ui-datepicker .ui-datepicker-prev span,
+.ui-datepicker .ui-datepicker-next span {
+    display: none;
+}
+
+.ui-datepicker .ui-datepicker-title {
+    margin: 0 15px;
+    text-align: center;
+}
+/*
+.ui-datepicker .ui-datepicker-title select {
+
+}
+.ui-datepicker select.ui-datepicker-month-year {
+
+}
+.ui-datepicker select.ui-datepicker-month,
+.ui-datepicker select.ui-datepicker-year {
+
+}
+*/
+.ui-datepicker table {
+    width: 100%;
+    background: #fff;
+    border-collapse: collapse;
+    color: #666;
+    clear: both;
+}
+
+.ui-datepicker th {
+    text-align: center;
+    background: #fbf0eb;
+    border: 1px solid #eee6bd;
+    height: 25px;
+    width: 27px;
+    padding: 0;
+}
+
+.ui-datepicker td {
+    border: 1px solid #eee6bd;
+    text-align: center;
+    height: 25px;
+    width: 27px;
+    padding: 0;
+}
+
+.ui-datepicker td.current {
+    background: #fff url('http://ue.17173cdn.com/a/bbs/shengwang/on-day.png') no-repeat 50% 50%;
+}
+
+.ui-datepicker td span,
+.ui-datepicker td a {
+    display: block;
+    text-decoration: none;
+}
+
+.sign-rank {
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 25px;
+    line-height: 25px;
+    border: 1px solid #fe9a2e;
+    background: #faac58;
+    zoom: 1;
+    z-index: 100;
+    position: absolute;
+    display: none;
+}
+
+/*
+.ui-datepicker .ui-datepicker-buttonpane {
+
+}
+.ui-datepicker .ui-datepicker-buttonpane button {
+
+}
+.ui-datepicker .ui-datepicker-buttonpane button.ui-datepicker-current {
+
+}
+*/
+.pop-warming {
+    position: fixed;
+    _position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -95px 0 0 -170px;
+    background: #fff;
+    border: 1px solid #c2d5e3;
+    width: 340px;
+    height: 190px;
+    box-shadow: 0 4px 4px rgba(0,0,0,0.1);
+    display: none;
+}
+
+.pop-warming .cont {
+    padding: 46px 0 0 34px;
+}
+
+.pop-warming .cont i {
+    float: left;
+    width: 48px;
+    height: 48px;
+    background: url(http://ue.17173cdn.com/a/bbs/shengwang/prestige-bg.png) no-repeat 0 -224px;
+}
+
+.pop-warming .cont p {
+    margin: 0 25px 0 58px;
+    color: #666;
+    line-height: 26px;
+}
+
+.pop-warming .cont a {
+    display: block;
+    color: #369;
+}
+
+.pop-warming .btn {
+    padding: 24px 0 0 90px;
+}
+
+.pop-warming .btn a {
+    background: url(http://ue.17173cdn.com/a/bbs/shengwang/prestige-bg.png) no-repeat 0 -272px;
+    display: inline-block;
+    zoom: 1;
+    height: 33px;
+    line-height: 28px;
+    width: 65px;
+    text-align: center;
+    color: #666;
+    color: #666;
+    margin: 0 30px 0 0;
+}
+
+.pop-warming .btn a:hover {
+    text-decoration: none;
+}
+
+.pop-warming .close {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    width: 10px;
+    height: 10px;
+    background: url(http://ue.17173cdn.com/a/bbs/shengwang/prestige-bg.png) no-repeat -55px -155px;
+}
+
+.app_link {
+    color: #666666
+}
+.prestige-title-t{
+    font-size: 14px;
+    padding-bottom: 7px;
+}
+.prestige-select{
+    border:1px solid #aaa;
+    width:150px;
+    height: 28px;
+    line-height: 28px;
+    font-size: 14px;
+}
+.prestige-select option{
+    height: 28px;
+    line-height: 28px;
+    font-size: 14px;
+}
+.prestige-select-wrap{
+    padding: 5px 0 15px;
+    font-size: 14px;
+}
+.prestige-title-info{
+    font-size: 14px; 
+    padding:0 0 20px;
+}
+.prestige-title-info td{
+    width: 33.3%;
+}
+.prestige-title-info td img{
+    vertical-align: middle;
+}
+.prestige-intro{
+    background: url(http://ue.17173cdn.com/a/bbs/shengwang/prestige_bg.png) right center no-repeat #f8f6e6;
+    color: #a16314;
+    padding: 13px 0 15px 18px;
+    font-size: 14px;
+    line-height: 2;
+    height: 122px;
+}
+.prestige-pic{
+    padding-top:15px;
+}
+.prestige-pic img{
+    margin: 6px 0;
+}
+.prestige-table{
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+.prestige-table th,
+.prestige-table td{
+    height: 30px;
+    line-height: 30px;
+    padding-left:10px;
+}
+.prestige-table th{
+    background: #f8f8f8;
+    border-top:1px solid #eaeaea;
+}
+.prestige-table td{
+    border-bottom: 1px solid #eaeaea;
+}

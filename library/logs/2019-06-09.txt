@@ -1,0 +1,215 @@
+Time : 18:50:41
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 18:13:21
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 18:13:18
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 18:13:13
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 18:13:10
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 18:13:07
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 18:13:03
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 17:41:27
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 16:57:40
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 16:57:34
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 16:57:27
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 16:57:22
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 16:55:13
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 16:54:13
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 16:50:26
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 13:16:51
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 13:12:41
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 13:12:08
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 13:11:40
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 13:08:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 13:07:40
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 13:05:21
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 13:05:07
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 13:04:33
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 13:02:48
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:59:08
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:59:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:59:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:59:03
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:59:03
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:58:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:58:53
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:57:51
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:57:50
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 12:57:38
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:56:35
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:56:10
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:54:10
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:53:35
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:53:32
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:53:06
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:51:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:50:58
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.post' doesn't exist
+Raw SQL : select * from post where post_type != 1 order by addtime desc limit 0,5
+
+Time : 12:49:19
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.friends' doesn't exist
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:48:08
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.friends' doesn't exist
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:47:48
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.friends' doesn't exist
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:47:39
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.friends' doesn't exist
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:46:43
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.friends' doesn't exist
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:45:05
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.friends' doesn't exist
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:44:38
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.friends' doesn't exist
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:42:39
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.friends' doesn't exist
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:42:05
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.friends' doesn't exist
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:40:30
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.friends' doesn't exist
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1
+
+Time : 12:39:50
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'itstudy.friends' doesn't exist
+Raw SQL : SELECT username FROM friends where user_id = :user_id and status = 1

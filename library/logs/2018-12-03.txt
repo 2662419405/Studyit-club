@@ -1,0 +1,19 @@
+Time : 13:57:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where id = 3' at line 1
+Raw SQL : select class_id from where id = 3
+
+Time : 13:56:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where 3' at line 1
+Raw SQL : select class_id from where 3
+
+Time : 13:56:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where id=?' at line 1
+Raw SQL : select class_id from where id=:user_id
+
+Time : 04:47:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'addtime limit 5' at line 1
+Raw SQL : select * from user order by esc addtime limit 5
+
+Time : 04:47:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc addtime limit 5' at line 1
+Raw SQL : select * from user order by desc addtime limit 5

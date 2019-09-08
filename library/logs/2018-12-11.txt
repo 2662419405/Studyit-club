@@ -1,0 +1,35 @@
+Time : 13:08:25
+SQLSTATE[HY000]: General error: 2031 
+Raw SQL : select * from exam_problem where chinese = :xi_tiku order by exam_addtime desc limit 0,5
+
+Time : 13:08:01
+SQLSTATE[HY000]: General error: 2031 
+Raw SQL : select * from exam_problem where chinese = :xi_tiku order by exam_addtime desc limit 0,5
+
+Time : 13:07:56
+SQLSTATE[HY000]: General error: 2031 
+Raw SQL : select * from exam_problem where chinese = :xi_tiku order by exam_addtime desc limit 0,5
+
+Time : 13:07:45
+SQLSTATE[HY000]: General error: 2031 
+Raw SQL : select * from exam_problem where chinese = :xi_tiku order by exam_addtime desc limit 0,5
+
+Time : 13:07:29
+SQLSTATE[HY000]: General error: 2031 
+Raw SQL : select * from exam_problem where chinese = :xi_tiku order by exam_addtime desc limit 0,5
+
+Time : 13:07:03
+SQLSTATE[HY000]: General error: 2031 
+Raw SQL : select * from exam_problem where chinese = :xi_tiku order by exam_addtime desc limit 0,5
+
+Time : 06:01:53
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select count(*) from exam_problem where chinese = :keyword
+
+Time : 05:21:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dawd%' at line 1
+Raw SQL : select count(*) from exam_problem where chinese like '%'dawd%
+
+Time : 05:20:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''%dawd%' at line 1
+Raw SQL : select count(*) from exam_problem where chinese like '%dawd%

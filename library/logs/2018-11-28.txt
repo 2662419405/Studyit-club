@@ -1,0 +1,7 @@
+Time : 03:00:42
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'addtime' in 'field list'
+Raw SQL : insert into user ( username , password ,addtime ) VALUE ( :username ,:password ,1543370442)
+
+Time : 03:00:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'addtime' in 'field list'
+Raw SQL : insert into user ( username , password ,addtime ) VALUE ( :username ,:password ,1543370439)

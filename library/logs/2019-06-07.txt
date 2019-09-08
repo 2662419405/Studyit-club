@@ -1,0 +1,83 @@
+Time : 16:42:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from =? order by addtime desc limit 0,4' at line 1
+Raw SQL : select * from tie_main where guan_main=:guan and lou!=0 and from =:name order by addtime desc limit 0,4
+
+Time : 16:41:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from =China_Sh order by addtime desc limit 0,4' at line 1
+Raw SQL : select * from tie_main where guan_main=:guan and lou!=0 and from =China_Sh order by addtime desc limit 0,4
+
+Time : 16:41:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from ='China_Sh' order by addtime desc limit 0,4' at line 1
+Raw SQL : select * from tie_main where guan_main=:guan and lou!=0 and from ='China_Sh' order by addtime desc limit 0,4
+
+Time : 16:04:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? limit 0,4' at line 1
+Raw SQL : select * from tie_main where guan_main=:guan and lou!=0 order by addtime :dd limit 0,4
+
+Time : 16:04:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? limit 0,4' at line 1
+Raw SQL : select * from tie_main where guan_main=:guan and lou!=0 order by addtime :dd limit 0,4
+
+Time : 16:03:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? limit 0,4' at line 1
+Raw SQL : select * from tie_main where guan_main=:guan and lou!=0 order by addtime :dao limit 0,4
+
+Time : 16:02:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? limit 0,4' at line 1
+Raw SQL : select * from tie_main where guan_main=:guan and lou!=0 order by addtime :dao limit 0,4
+
+Time : 16:02:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? limit 0,4' at line 1
+Raw SQL : select * from tie_main where guan_main=:guan and lou!=0 order by addtime :dao limit 0,4
+
+Time : 16:02:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? limit 4,4' at line 1
+Raw SQL : select * from tie_main where guan_main=:guan and lou!=0 order by addtime :dao limit 4,4
+
+Time : 16:02:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? limit 0,4' at line 1
+Raw SQL : select * from tie_main where guan_main=:guan and lou!=0 order by addtime :dao limit 0,4
+
+Time : 16:02:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? limit 0,4' at line 1
+Raw SQL : select * from tie_main where guan_main=:guan and lou!=0 order by addtime :dao limit 0,4
+
+Time : 16:00:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? limit 0,4' at line 1
+Raw SQL : select * from tie_main where guan_main=:guan and lou!=0 order by addtime :dao limit 0,4
+
+Time : 11:13:40
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'hui_num' in 'field list'
+Raw SQL : update user set hui_num=hui_num+1 where id=:id
+
+Time : 10:26:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from,to) values (?,1559895980,?,?,?,?,?)' at line 1
+Raw SQL : insert into tie_main(guan_main,addtime,content,type,hui_type,from,to) values (:guan_main,1559895980,:content,:type,:hui_type,:from,:to)
+
+Time : 10:22:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from,to,hui_type) values (?,1559895723,?,?,?,?,?)' at line 1
+Raw SQL : insert into tie_main(guan_main,addtime,content,type,from,to,hui_type) values (:guan_main,1559895723,:content,:type,:from,:to,:hui_type)
+
+Time : 10:21:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from,to,hui_type) values (?,1559895696,?,?,?,?,?)' at line 1
+Raw SQL : insert into tie_main(guan_main,addtime,content,type,from,to,hui_type) values (:guan_main,1559895696,:content,:type,:from,:to,:hui_type)
+
+Time : 10:16:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from,to,hui_type) values (?,1559895394,?,?,?,?,?)' at line 1
+Raw SQL : insert into tie_main(guan_main,addtime,content,type,from,to,hui_type) values (:guan_main,1559895394,:content,:type,:from,:to,:hui_type)
+
+Time : 10:15:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from,to,hui_type) values (?,1559895344,?,?,?,?,?)' at line 1
+Raw SQL : insert into tie_main(guan_main,addtime,content,type,from,to,hui_type) values (:guan_main,1559895344,:content,:type,:from,:to,:hui_type)
+
+Time : 10:15:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from,to,hui_type) values (?,1559895337,?,?,?,?,?)' at line 1
+Raw SQL : insert into tie_main(guan_main,addtime,content,type,from,to,hui_type) values (:guan_main,1559895337,:content,:type,:from,:to,:hui_type)
+
+Time : 10:12:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from,to,hui_type) values (?,1559895163,?,?,?,?,?)' at line 1
+Raw SQL : insert into tie_main(guan_main,addtime,content,type,from,to,hui_type) values (:guan_main,1559895163,:content,:type,:from,:to,:hui_type)
+
+Time : 10:12:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from,to,hui_type) values (?,1559895137,?,?,?,?,?)' at line 1
+Raw SQL : insert into tie_main(guan_main,addtime,content,type,from,to,hui_type) values (:guan_main,1559895137,:content,:type,:from,:to,:hui_type)
