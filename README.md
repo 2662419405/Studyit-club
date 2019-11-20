@@ -10,6 +10,12 @@ Hello Everybody
 
 ​	有兴趣的小伙伴可以去开一下 -------> [网站地址](http://studyit.club)
 
+#### 效果图
+
+![首页](http://studyit.club/Study/index.png)
+
+![首页](http://studyit.club/Study/main.png)
+
 ### 语言和框架
 
 * 数据库方面使用`Mysql` 数据库 没有事务处理 存储引擎为`MyISAM`
