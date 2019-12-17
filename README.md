@@ -45,4 +45,5 @@ Hello Everybody
 * 美图秀秀插件配置:把主目录的 `crossdomain.xml`放在服务器的根目录
 
   
+#### 由于个人精力有限,本项目也暂停维护
 
