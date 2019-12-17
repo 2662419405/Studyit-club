@@ -1,0 +1,11 @@
+Time : 08:01:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where exam_yichu = 0 limit 0,10' at line 1
+Raw SQL : select * from mistake order by exam_addtime desc where exam_yichu = 0 limit 0,10
+
+Time : 07:59:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where exam_yichu = 0' at line 1
+Raw SQL : select * from mistake order by exam_addtime desc limit 0,10 where exam_yichu = 0
+
+Time : 07:59:01
+SQLSTATE[42000]: Syntax error or access violation: 1327 Undeclared variable: 10where
+Raw SQL : select * from mistake order by exam_addtime desc limit 0,10where exam_yichu = 0

@@ -1,0 +1,292 @@
+<style type="text/css">
+	* {
+		padding: 0;
+		margin: 0;
+	}
+	
+	body {
+		line-height: 1.6;
+		font-weight: 400;
+		color: #333;
+		font-size: 1rem;
+	}
+	
+	body,
+	form,
+	h2,
+	ul,
+	h3,
+	input,
+	textarea {
+		margin: 0;
+		padding: 0
+	}
+	
+	textarea {
+		overflow: auto;
+		resize: none;
+	}
+	
+	li {
+		list-style: none;
+	}
+	
+	a {
+		text-decoration: none;
+	}
+	
+	.all {
+		width: 1200px;
+		margin: 0 auto;
+		padding: 57px 0;
+	}
+	
+	.reg_btn {
+		margin-top: 40px;
+	}
+	
+	.reg_main {
+		width: 544px;
+		min-height: 180px;
+		margin: 0 auto;
+		position: relative;
+	}
+	
+	.size16 {
+		font-size: 16px;
+		margin-right: 23px;
+	}
+	
+	.gray {
+		color: #727272;
+	}
+	
+	.clearall {
+		clear: both;
+	}
+	
+	.reg_main_input {
+		margin-top: 0px;
+		cursor: pointer;
+		background-color: #0b91e9;
+		color: #ffffff;
+		border: 1px solid #0b91e9;
+		font-size: large;
+		width: 392px;
+		height: 54px;
+		float: left;
+		text-indent: 10px;
+		transition: background-color 300ms ease-out, border-color 300ms ease-out;
+	}
+	
+	.reg_main_input:hover {
+		background-color: blue;
+		border-color: blue;
+	}
+	
+	.reg_name {
+		width: 149px;
+		height: 54px;
+		text-align: center;
+		line-height: 50px;
+		background: #f2f2f2;
+		color: #7c7c7c;
+		margin-top: 34px;
+		float: left;
+		border-bottom: 1px solid #dcdcdc;
+		border-top: 1px solid #dcdcdc;
+		border-left: 1px solid #dcdcdc;
+		position: relative;
+	}
+	
+	.size18 {
+		font-size: 18px;
+	}
+	
+	.red {
+		text-align: center;
+		line-height: 50px;
+		color: #ff0b0b;
+	}
+	
+	.reg_input {
+		width: 392px;
+		height: 54px;
+		border: 1px solid #dcdcdc;
+		float: left;
+		margin-top: 34px;
+		text-indent: 10px;
+	}
+	
+	#footer {
+		padding: 1em 0;
+		color: hsla(0, 0%, 100%, .7);
+		background-color: #333;
+		box-sizing: border-box;
+		min-height: 7em;
+		font-family: -apple-system, BlinkMacSystemFont, San Francisco, Helvetica Neue, Noto Sans CJK SC, Noto Sans CJK, Source Han Sans, PingFang SC, Microsoft YaHei, sans-serif;
+		font-size: 16px;
+		line-height: 1.5;
+	}
+	
+	img {
+		border-style: none;
+	}
+	
+	.wrap1 {
+		max-width: 1200px;
+		position: relative;
+		margin-left: auto;
+		margin-right: auto;
+		padding-left: 2em;
+		padding-right: 2em;
+		box-sizing: border-box;
+		display: flex;
+		align-items: center;
+		color: hsla(0, 0%, 100%, .7);
+	}
+	
+	.img11 {
+		max-height: 100px;
+	}
+	
+	.foorer1 {
+		margin-left: .5em;
+		font-size: 1.3em;
+		line-height: 1.5;
+		font-weight: 700;
+	}
+	
+	.info {
+		flex: 1;
+		text-align: right;
+	}
+	
+	.formError {
+		width: 100%;
+		background: #ef746d;
+		position: relative;
+		color: #fff;
+		min-width: 120px;
+		font-size: 11px;
+		padding: 7px 12px 7px 12px;
+		z-index: 991;
+		border-radius: 6px;
+	}
+	
+	#show_1 {
+		opacity: 0.87;
+		position: absolute;
+		top: 70px;
+		left: 549px;
+		margin-top: 0px;
+		display: block;
+		cursor: pointer;
+		text-align: left;
+		z-index: 990;
+	}
+	
+	#show_2 {
+		opacity: 0.87;
+		position: absolute;
+		top: 140px;
+		left: 549px;
+		margin-top: 0px;
+		display: block;
+		cursor: pointer;
+		text-align: left;
+		z-index: 990;
+	}
+	
+	#show_3 {
+		opacity: 0.87;
+		position: absolute;
+		top: 230px;
+		left: 549px;
+		margin-top: 0px;
+		display: block;
+		cursor: pointer;
+		text-align: left;
+		z-index: 990;
+	}
+	#show_4 {
+		opacity: 0.87;
+		position: absolute;
+		top: 330px;
+		left: 549px;
+		margin-top: 0px;
+		display: block;
+		cursor: pointer;
+		text-align: left;
+		z-index: 990;
+	}
+	#show_5 {
+		opacity: 0.87;
+		position: absolute;
+		top: 420px;
+		left: 549px;
+		margin-top: 0px;
+		display: block;
+		cursor: pointer;
+		text-align: left;
+		z-index: 990;
+	}
+
+	@media (max-width: 576px){
+		#footer {
+			margin-left: 0;
+			width: 100%;
+		}
+		.wrap1 {
+			padding-left: 0;
+    		padding-right: 0;
+			width: 100%;
+		}
+		.img11 {
+			display: none;
+		}
+		.foorer1{
+			display: none;
+		}
+		.info{
+			text-align: center;
+		}
+		#main{
+			overflow: hidden;
+		}
+		.all{
+			width: auto;
+		}
+		.reg_main{
+			overflow-x: hidden;
+			width: auto;
+		}
+		.size18{
+			font-size: 13px;
+		}
+		.reg_name{
+			width: 100px;
+		}
+		.reg_input{
+			width: 252px;
+		}
+		.reg_main_input{
+			width: 350px;
+		}
+		#show_1{
+			left:230px;
+		}
+		#show_2{
+			left:230px;
+		}
+		#show_3{
+			left:230px;
+		}
+		#show_4{
+			left:230px;
+		}
+		#show_5{
+			left:230px;
+		}
+	}
+</style>

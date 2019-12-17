@@ -1,0 +1,74 @@
+Time : 13:48:08
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : UPDATE mr_user SET sex = :sex,qq = :qq,email = :email  WHERE id = :user_id
+
+Time : 02:04:01
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.exam' doesn't exist
+Raw SQL : select * from exam where id = :user_id
+
+Time : 01:22:20
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select * from user where username = :username and password = :password
+
+Time : 01:22:19
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select * from user where username = :username and password = :password
+
+Time : 01:22:18
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select * from user where username = :username and password = :password
+
+Time : 01:22:17
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select * from user where username = :username and password = :password
+
+Time : 01:22:16
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select * from user where username = :username and password = :password
+
+Time : 01:22:14
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select * from user where username = :username and password = :password
+
+Time : 01:22:13
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select * from user where username = :username and password = :password
+
+Time : 01:21:56
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 01:21:55
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 01:21:54
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 01:21:10
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 01:21:09
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 01:21:08
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 01:21:07
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 01:21:06
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 01:21:05
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 01:19:38
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 01:19:34
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 01:19:33
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 01:19:31
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty

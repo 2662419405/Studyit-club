@@ -1,0 +1,11 @@
+Time : 16:27:30
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_time' in 'field list'
+Raw SQL : insert into tie(addtime,last_time,guan_main,admin,last_admin,type,te,title) values (1559831250,1559831250,:guan_main,:admin,:last_admin,:type,:te,:title)
+
+Time : 16:27:06
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_time' in 'field list'
+Raw SQL : insert into tie(addtime,last_time,guan_main,admin,last_admin,type,te,title) values (1559831226,1559831226,:guan_main,:admin,:last_admin,:type,:te,:title)
+
+Time : 16:27:02
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_time' in 'field list'
+Raw SQL : insert into tie(addtime,last_time,guan_main,admin,last_admin,type,te,title) values (1559831222,1559831222,:guan_main,:admin,:last_admin,:type,:te,:title)

@@ -1,0 +1,484 @@
+<style type="text/css">
+	body {
+		background: #e8eff5;
+	}
+	
+	.my_head {
+		position: relative;
+		overflow: hidden;
+		margin-bottom: 10px;
+		height: 300px;
+		box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.35);
+	}
+	
+	.touxiang {
+		z-index: 2;
+		height: 100px;
+		width: 100px;
+		position: absolute;
+		border-radius: 100px;
+		left: 450px;
+		top: 65px;
+		box-shadow: 2px 2px 10px #fff, -2px -2px 10px #fff, 2px -2px 10px #fff, -2px 2px 10px #fff;
+	}
+	
+	.my_head .p1 {
+		position: absolute;
+		width: 200px;
+		text-align: center;
+		left: 400px;
+		top: 175px;
+		font-size: 18px;
+	}
+	
+	.my_head .p2 {
+		width: 200px;
+		position: absolute;
+		right: 0;
+		color: #1383eb;
+		font-size: 14px;
+		text-shadow: 0.5px 0.5px 2px #13ebca;
+	}
+	
+	.main_setting {
+		margin: 60px 0 80px 0;
+		width: 1000px;
+		position: relative;
+		left:150px;
+	}
+	
+	.my_head span {
+		color: #fff;
+		font-size: 14px;
+		position: absolute;
+		left: 50px;
+		top: 260px;
+	}
+	
+	#wp {
+		min-width: 1000px;
+	}
+	
+	.wp {
+		width: 98%;
+		margin: 0 auto;
+	}
+	
+	#pt {
+		margin: 2px 0;
+		height: 29px;
+		border: none;
+		line-height: 29px;
+	}
+	
+	.cl {
+		zoom: 1;
+	}
+	
+	.cl:after {
+		content: ".";
+		display: block;
+		height: 0;
+		clear: both;
+		visibility: hidden;
+	}
+	
+	#pt .z {
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+	
+	.z {
+		float: left;
+	}
+	
+	.nvhm {
+		width: 16px;
+		background: url(img/main.png) no-repeat 0 0;
+		line-height: 200px;
+		overflow: hidden;
+		color: #333;
+		text-decoration: none;
+	}
+	
+	#pt .z a,
+	#pt .z em,
+	#pt .z span {
+		float: left;
+		height: 29px;
+	}
+	
+	#pt .z em {
+		width: 20px;
+		background: url(img/pt_item.png) no-repeat 3px 10px;
+		line-height: 200px;
+		overflow: hidden;
+	}
+	
+	.z a,
+	.z span {
+		color: #333;
+		font-size: 14px;
+	}
+	
+	#wp .wp {
+		width: auto;
+	}
+	
+	#ct {
+		min-height: 300px;
+		height: 600px;
+	}
+	
+	.ct2_a {
+		padding-left: 150px;
+	}
+	
+	.ct2_a,
+	.ct3_a {
+		background-color: #FFF;
+	}
+	
+	.ct2_a,
+	.ct3_a {
+		border: 1px solid #CCC;
+	}
+	
+	.ct2_a .mn {
+		width: 99%;
+	}
+	
+	.ct2_a .mn {
+		float: right;
+		width: 810px;
+	}
+	
+	.ct2_a .mn {
+		display: inline;
+		margin-right: 10px;
+		padding-top: 10px;
+		width: 800px;
+	}
+	
+	.mn {
+		overflow: hidden;
+	}
+	
+	.ct2_a .appl {
+		margin-left: -150px;
+	}
+	
+	.appl {
+		float: left;
+		overflow: hidden;
+		margin-bottom: 10px;
+		padding: 6px 10px;
+		width: 117px;
+		height: 98%;
+		background: url(img/bg.png) repeat-y 0 0;
+	}
+	
+	.tbn {
+		margin: -6px -10px 0;
+	}
+	
+	.tbn .mt {
+		padding: 10px;
+	}
+	
+	.bbda {
+		border-bottom: 1px dashed #CDCDCD;
+	}
+	
+	.tbn li.a {
+		margin: -1px 0 0;
+		padding: 0 10px 0 9px;
+		border-top: 1px solid #CDCDCD;
+		border-bottom-style: solid;
+		background: #FFF;
+	}
+	
+	.tbn li:hover {
+		color: #0000FF;
+	}
+	
+	.tbn li {
+		margin: 0 10px;
+		height: 33px;
+		border-bottom: 1px dashed #CCC;
+	}
+	
+	.appl li {
+		display: block;
+		height: 28px;
+		line-height: 28px;
+		white-space: nowrap;
+		word-wrap: normal;
+		font-size: 14px;
+		text-overflow: ellipsis;
+		overflow: hidden;
+	}
+	
+	.tbn ul li {
+		display: block;
+		height: 40px;
+		cursor: pointer;
+		line-height: 33px;
+		text-decoration: none !important;
+	}
+	
+	.mt {
+		padding: 10px 0;
+		font-size: 16px;
+	}
+	
+	.bw0 {
+		background: transparent;
+	}
+	
+	.bm {
+		border: 1px solid #CDCDCD;
+		background: #FFF;
+	}
+	
+	.bm,
+	.bn {
+		margin-bottom: 10px;
+	}
+	
+	.bw0 {
+		border: none !important;
+	}
+	
+	.bian {
+		background: #fff;
+		color: #444;
+	}
+	
+	.pbm {
+		padding-bottom: 10px !important;
+	}
+	
+	.mbm {
+		margin-bottom: 10px !important;
+	}
+	
+	.bbda {
+		border-bottom: 1px dashed #CDCDCD;
+	}
+	
+	.tfm {
+		width: 100%;
+		font-size: 14px;
+	}
+	
+	.tfm caption,
+	.tfm th,
+	.tfm td {
+		vertical-align: top;
+		padding: 7px 0;
+	}
+	
+	.tfm th .rq {
+		float: right;
+		font-size: 14px;
+	}
+	
+	.rq {
+		color: red;
+	}
+	
+	.tfm .pt,
+	.tfm .px {
+		margin-right: 3px;
+		width: 330px;
+	}
+	
+	.tfm .d {
+		clear: both;
+		margin: 5px 0;
+		color: #999;
+	}
+	
+	table,
+	th,
+	td,
+	tr {
+		border: none;
+	}
+	
+	table {
+		empty-cells: show;
+		border-collapse: collapse;
+	}
+	
+	tbody {
+		display: table-row-group;
+		vertical-align: middle;
+		border-color: inherit;
+	}
+	
+	.tfm th {
+		padding-top: 9px;
+		padding-right: 5px;
+		width: 130px;
+	}
+	
+	.tfm .pt,
+	.tfm .px {
+		margin-right: 3px;
+		width: 330px;
+	}
+	
+	.px,
+	.pt {
+		padding: 2px 4px;
+		line-height: 17px;
+	}
+	
+	.px,
+	.pt,
+	.ps,
+	select {
+		border: 1px solid;
+		border-color: #848484 #E0E0E0 #E0E0E0 #848484;
+		background: #FFF url(img/px.png) repeat-x 0 0;
+		color: ;
+	}
+	
+	.pnc,
+	a.pnc {
+		border-color: #235994;
+		background-color: #06C;
+		background-position: 0 -48px;
+		color: #FFF !important;
+	}
+	
+	.pn {
+		vertical-align: middle;
+		overflow: hidden;
+		margin-right: 3px;
+		padding: 0;
+		height: 23px;
+		border: 1px solid #999;
+		cursor: pointer;
+		box-shadow: 0 1px 0 #E5E5E5;
+	}
+	
+	.pn em,
+	.pn strong {
+		font-weight: 700;
+	}
+	
+	.pn em,
+	.pn span,
+	.pn strong {
+		padding: 0 10px;
+		line-height: 21px;
+	}
+	
+	.er {
+		border-color: #F66 #FFBDB9 #FFBDB9 #F66;
+		background-color: #FDF4F4;
+		background-image: url(img/px_e.png);
+	}
+	
+	.cl:after {
+		content: ".";
+		display: block;
+		height: 0;
+		clear: both;
+		visibility: hidden;
+	}
+	
+	.tb li {
+		float: left;
+		margin: 0 3px -1px 0;
+	}
+	
+	.ct2_a .tb {
+		margin-top: 3px;
+	}
+	
+	.tb {
+		margin-top: 10px;
+		padding-left: 5px;
+		line-height: 30px;
+		border-bottom: 1px solid #CDCDCD;
+	}
+	
+	.tb .a span {
+		border-bottom-color: #FFF;
+		background: #FFF;
+		font-weight: 700;
+	}
+	
+	.tb span {
+		display: block;
+		padding: 0 10px;
+		border: 1px solid #CDCDCD;
+		background: #E5EDF2;
+	}
+	
+	a {
+		color: #333;
+		text-decoration: none;
+	}
+	
+	#ul_click span {
+		font-size: 0.9em;
+	}
+	
+	.tfm {
+		width: 100%;
+	}
+	
+	table {
+		empty-cells: show;
+		border-collapse: collapse;
+	}
+	
+	.tfm th {
+		padding-top: 9px;
+		padding-right: 5px;
+		width: 130px;
+	}
+	
+	.tfm caption,
+	.tfm th,
+	.tfm td {
+		vertical-align: top;
+		padding: 10px 0;
+	}
+	
+	.ps,
+	select {
+		padding: 2px 2px 2px 1px;
+	}
+	
+	.px,
+	.pt,
+	.ps,
+	select {
+		border: 1px solid;
+		border-color: #848484 #E0E0E0 #E0E0E0 #848484;
+		background: #FFF url(img/px.png) repeat-x 0 0;
+		color: ;
+	}
+	
+	.tfm .p {
+		text-align: right;
+	}
+	
+	.tfm th {
+		padding-top: 9px;
+		padding-right: 5px;
+		width: 130px;
+	}
+	
+	caption,
+	th {
+		text-align: left;
+		font-weight: 400;
+	}
+</style>

@@ -1,0 +1,70 @@
+Time : 18:24:31
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'b_8o4zjjpwmqw6ik.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 18:23:32
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'b_8o4zjjpwmqw6ik.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 17:35:13
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'b_8o4zjjpwmqw6ik.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 17:34:26
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'b_8o4zjjpwmqw6ik.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 14:16:56
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'b_8o4zjjpwmqw6ik.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 14:16:35
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'b_8o4zjjpwmqw6ik.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 14:15:28
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'b_8o4zjjpwmqw6ik.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 14:14:00
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'
+Raw SQL : select * from liuyan where name = :username order by id desc limit :num
+
+Time : 14:13:39
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'b_8o4zjjpwmqw6ik.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 14:13:10
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'b_8o4zjjpwmqw6ik.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 14:11:51
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'b_8o4zjjpwmqw6ik.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 14:11:09
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'b_8o4zjjpwmqw6ik.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 14:10:25
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'b_8o4zjjpwmqw6ik.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 14:10:10
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'
+Raw SQL : select * from liuyan where name = :username order by id desc limit :num
+
+Time : 13:18:28
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'
+Raw SQL : select * from liuyan where name = :username order by id desc limit :num
+
+Time : 13:13:39
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'b_8o4zjjpwmqw6ik.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 13:04:51
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'b_8o4zjjpwmqw6ik.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 11:22:57
+SQLSTATE[HY000] [1045] Access denied for user 'b_8o4zjjpwmqw6ik'@'172.16.20.245' (using password: YES)

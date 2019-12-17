@@ -1,0 +1,19 @@
+Time : 08:19:53
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : select * from message where receiver = :receiver and addtime > :last_time and id >:max_id
+
+Time : 08:19:48
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : select * from message where receiver = :receiver and addtime > :last_time and id >:max_id
+
+Time : 08:19:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':' at line 1
+Raw SQL : select * from message where receiver = :receiver and addtime > :last_time and id:
+
+Time : 08:15:47
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : select * from message where receiver = :receiver and addtime > :last_time
+
+Time : 08:15:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : select * from message where receiver = :receiver and addtime >

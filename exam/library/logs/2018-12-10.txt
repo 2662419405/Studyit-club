@@ -1,0 +1,3 @@
+Time : 12:13:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group by pro_type limit 0,10' at line 1
+Raw SQL : select * from exam_problem order by exam_addtime desc group by pro_type limit 0,10

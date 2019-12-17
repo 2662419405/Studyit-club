@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<script type="text/javascript" src="js/jquery.js"></script>
+		<script type="text/javascript" src="layer/layer.js"></script>
+
+		<style type="text/css">
+			* {
+				padding: 0;
+				margin: 0;
+			}
+			
+			.main {
+				overflow: hidden;
+				margin: 0 auto;
+			}
+			
+			.left {
+				width: 700px;
+				min-height: 549px;
+				padding-bottom: 0px;
+				float: left;
+			}
+			
+			.weibo_list_forward .weibo_list {
+				box-shadow: 2px 2px 5px rgba(0, 0, 0, 0);
+				background-color: #f2f2f2;
+			}
+			
+			.weibo_list {
+				box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.35);
+				background: white;
+				overflow: hidden;
+				margin-bottom: 10px;
+			}
+			
+			.weibo_comment {
+				display: none;
+				position: relative;
+				z-index: 998;
+				border-top: 0px solid #d1d1d1;
+			}
+			
+			.weibo_comment {
+				height: auto;
+				background: #f2f2f2;
+				padding: 12px 12px 12px 12px;
+			}
+			
+			.weibo_comment .send-weibo {
+				border: 0px solid #e2ddd5;
+				background: none;
+				box-shadow: 2px 2px 5px rgba(0, 0, 0, 0);
+				margin-bottom: 8px;
+				border-bottom: 2px solid #e5e5e5;
+				position: relative;
+			}
+			
+			.ui.form {
+				font-size: 1rem;
+			}
+			
+			.ui.form {
+				position: relative;
+				max-width: 100%;
+			}
+			
+			.ui.form textarea {
+				margin: 0em;
+				-webkit-appearance: none;
+				tap-highlight-color: rgba(255, 255, 255, 0);
+				padding: 0.78571429em 1em;
+				background: #ffffff;
+				border: 1px solid rgba(34, 36, 38, 0.15);
+				outline: none;
+				color: rgba(0, 0, 0, 0.87);
+				border-radius: 0.28571429rem;
+				box-shadow: 0em 0em 0em 0em transparent inset;
+				-webkit-transition: color 0.1s ease, border-color 0.1s ease;
+				transition: color 0.1s ease, border-color 0.1s ease;
+				font-size: 1em;
+				line-height: 1.2857;
+				resize: vertical;
+				width: 93.5%;
+			}
+			
+			.send-action {
+				padding: 16px 12px 36px 12px;
+			}
+			
+			.ui.form .field:last-child,
+			.ui.form .fields:last-child .field {
+				margin-bottom: 0em;
+			}
+			
+			.ui.form .field {
+				clear: both;
+				margin: 0em 0em 1em;
+			}
+			
+			.weibo-text {
+				margin: 0 10px;
+			}
+			
+			.ui.form textarea {
+				vertical-align: top;
+			}
+			
+			.release {
+				float: right;
+				margin-top: -5px;
+				line-height: 1;
+			}
+			
+			.countTxt {
+				margin: 0 15px 0;
+				color: #999;
+			}
+			
+			.ui.teal.buttons .button,
+			.ui.teal.button {
+				border-radius: 0;
+				padding: 8px 24px;
+				background-color: #85c0e1;
+			}
+			
+			.ui.teal.button {
+				box-shadow: 0px 0em 0px 0px rgba(34, 36, 38, 0.15) inset;
+			}
+			
+			.count {
+				font-weight: bold;
+				padding: 0 5px;
+			}
+			
+			.ui.teal.buttons .button,
+			.ui.teal.button {
+				color: #ffffff;
+				text-shadow: none;
+				background-image: none;
+			}
+			
+			.weibo_list_forward .weibo_list {
+				box-shadow: 2px 2px 5px rgba(0, 0, 0, 0);
+				background-color: #f2f2f2;
+			}
+			
+			.weibo_list_top {
+				overflow: hidden;
+				padding: 12px;
+			}
+			
+			.weibo_list_top .weibo_list_head {
+				float: left;
+				margin-right: 12px;
+			}
+			
+			a {
+				color: #666666;
+				cursor: pointer;
+			}
+			
+			.weibo_list_top .weibo_list_head img {
+				width: 62px;
+			}
+			
+			.avatar {
+				width: 64px;
+				height: 64px;
+				border-radius: 50%;
+			}
+			
+			.weibo_list_top ul {
+				padding: 0px;
+				width: 85%;
+				float: left;
+				font-size: 14px;
+			}
+			
+			textarea, select, button {
+			    text-rendering: auto;
+			    color: initial;
+			    letter-spacing: normal;
+			    word-spacing: normal;
+			    text-transform: none;
+			    text-indent: 0px;
+			    text-shadow: none;
+			    display: inline-block;
+			    text-align: start;
+			    margin: 0em;
+			    font: 400 13.3333px Arial;
+			}
+			
+			b,
+			strong {
+				font-weight: bold;
+			}
+			
+			.weibo_list_top ul li span {
+				color: #999999;
+				line-height: 28px;
+				font-size: 12px;
+			}
+			
+			p:last-child {
+				margin-bottom: 0em;
+			}
+			
+			p:first-child {
+				margin-top: 0em;
+			}
+			
+			p {
+				margin: 0em 0em 1em;
+				line-height: 1.4285em;
+			}
+			ul li{
+				list-style: none;
+			}
+			
+			body {
+			    background-color: #d4e8fe;
+			    background-image: url(img/body_bg.png);
+			    background-repeat: no-repeat;
+			    background-position: center 35px;
+			}
+		</style>
+
+	</head>

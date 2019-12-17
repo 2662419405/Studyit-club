@@ -1,0 +1,19 @@
+Time : 03:10:24
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'b_8o4zjjpwmqw6ik.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 03:06:44
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'b_8o4zjjpwmqw6ik.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 03:05:16
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'b_8o4zjjpwmqw6ik.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 03:04:56
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'b_8o4zjjpwmqw6ik.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1
+
+Time : 03:04:40
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'b_8o4zjjpwmqw6ik.today' doesn't exist
+Raw SQL : update today set laoshi_sum = laoshi_sum + 1

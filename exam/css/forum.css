@@ -1,0 +1,12 @@
+.t_f img{ max-width:600px; _width:expression(this.scrollWidth > 600 ? "600px" : "auto");}
+.widthauto .t_f img{ max-width:960px; _width:expression(this.scrollWidth > 600 ? "600px" : "auto");}
+.plm #p_btn{ *position:static; *zoom:1;}
+.plm #bdshare{ *position:static; *float:right;}
+.boardnav #ct{ background:#fff;}
+#photo_pic{-webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;   -o-user-select: none; }
+.plc{-ms-word-break:break-all; word-break:break-all; word-break:break-word; -moz-hyphens:auto; -webkit-hyphens:auto; hyphens:auto;}
+.livethreadcon a:link,
+.livethreadcon a:visited,
+#livereplycontent dd a:link,
+#livereplycontent dd a:visited{ color:#06c;}
+.user_prestige{ text-align: center;}

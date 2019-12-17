@@ -1,0 +1,7 @@
+Time : 07:25:56
+SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (gbk_chinese_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+Raw SQL : select * from exam_problem where chinese = :xi_tiku order by exam_addtime desc limit 0,5
+
+Time : 07:25:38
+SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (gbk_chinese_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+Raw SQL : select * from exam_problem where chinese = :xi_tiku order by exam_addtime desc limit 0,5

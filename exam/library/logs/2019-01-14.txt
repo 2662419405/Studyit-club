@@ -1,0 +1,31 @@
+Time : 09:16:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column '孙航' in 'where clause'
+Raw SQL : select count(*) from post where username = 孙航
+
+Time : 09:16:01
+SQLSTATE[42S22]: Column not found: 1054 Unknown column '孙航' in 'where clause'
+Raw SQL : select count(*) from post where username = 孙航
+
+Time : 09:14:12
+SQLSTATE[42S22]: Column not found: 1054 Unknown column '孙航' in 'where clause'
+Raw SQL : select count(*) from post where username = 孙航
+
+Time : 09:13:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column '孙航' in 'where clause'
+Raw SQL : select * from post where post_type != 1 and username = 孙航 order by addtime desc limit 0,5
+
+Time : 06:47:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'post_id' in 'field list'
+Raw SQL : insert into at (user_id,post_id) values ( :user_id , :post_id)
+
+Time : 06:45:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'post_id' in 'field list'
+Raw SQL : insert into at (user_id,post_id) values ( :user_id , :post_id)
+
+Time : 06:45:22
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'post_id' in 'field list'
+Raw SQL : insert into at (user_id,post_id) values ( :user_id , :post_id)
+
+Time : 06:39:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'post_id' in 'field list'
+Raw SQL : insert into at (user_id,post_id) values ( :user_id , :post_id)

@@ -1,0 +1,173 @@
+Time : 17:09:33
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_post' doesn't exist
+Raw SQL : select * from mr_post where id = 3
+
+Time : 17:09:23
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_post' doesn't exist
+Raw SQL : select * from mr_post where id = 3
+
+Time : 17:09:20
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_post' doesn't exist
+Raw SQL : select * from mr_post where id = 3
+
+Time : 17:08:12
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : select avatar from mr_user where id = :user_id
+
+Time : 17:06:54
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : select avatar from mr_user where id = :user_id
+
+Time : 15:14:52
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'post_id' in 'field list'
+Raw SQL : insert into at (user_id,post_id) values ( :user_id , :post_id)
+
+Time : 14:16:48
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_post' doesn't exist
+Raw SQL : insert into mr_post (user_id,username,content,pictures,addtime,pid,post_type,parent_user_id) 
+                 values( :user_id , :username , :content , :pictures , :addtime , 0 , 0 ,0)
+
+Time : 14:14:38
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_post' doesn't exist
+Raw SQL : insert into mr_post (user_id,username,content,pictures,addtime,pid,post_type,parent_user_id) 
+                 values( :user_id , :username , :content , :pictures , :addtime , 0 , 0 ,0)
+
+Time : 09:19:26
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'username' in 'field list'
+Raw SQL : SELECT username FROM friends
+
+Time : 09:19:17
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 09:18:59
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 09:18:08
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 09:17:58
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 09:17:44
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 09:17:29
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 09:16:59
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 09:15:11
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 09:13:47
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 09:13:10
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 09:12:59
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 09:12:27
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 05:46:49
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 05:46:07
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 05:45:41
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 05:44:50
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 05:42:05
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 05:41:50
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 05:41:45
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 05:39:52
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 05:39:45
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 05:36:56
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 05:36:25
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 05:34:15
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 05:32:11
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 05:32:03
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 05:31:53
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 05:31:26
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 05:28:58
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 05:27:00
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 05:24:58
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 05:11:07
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 05:08:55
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user
+
+Time : 05:04:46
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.mr_user' doesn't exist
+Raw SQL : SELECT username FROM mr_user

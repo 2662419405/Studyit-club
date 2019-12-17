@@ -1,0 +1,11 @@
+Time : 15:59:06
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'exam.liuyan' doesn't exist
+Raw SQL : select * from liuyan where user_name = :user_name order by addtime desc limit 5
+
+Time : 15:37:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' order by addtime desc' at line 1
+Raw SQL : select * from liuyan where user_name = :user_name' order by addtime desc
+
+Time : 15:36:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' order by addtime desc' at line 1
+Raw SQL : select * from liuyan where user_name = :user_name' order by addtime desc
