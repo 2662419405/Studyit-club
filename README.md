@@ -27,7 +27,8 @@ Hello Everybody
 * 个人空间方面用了`QQ`表情包
 * 个人设置用了美图秀秀的PC插件`crossdomain.xml`
 * 个人空间使用 `Highslide.js`图片预览插件和多图片上传插件
-
+* 信息提示使用`layui`
+* 象棋游戏使用`ajax`长轮询制作(主要当时不会websocket,有兴趣的小伙伴可以clone下去自己优化一下象棋)
 
 
 ***
