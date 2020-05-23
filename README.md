@@ -8,7 +8,7 @@ Hello Everybody
 
 ​	第一次尝试分享一个自己写的非常简单的自己社团的官网
 
-​	有兴趣的小伙伴可以去开一下 -------> [网站地址](https://studyit.club)
+​	有兴趣的小伙伴可以去开一下 -------> [网站地址](http://sunhang.gz01.bdysite.com/)
 
 #### 效果图
 
@@ -29,7 +29,6 @@ Hello Everybody
 * 个人空间使用 `Highslide.js`图片预览插件和多图片上传插件
 * 信息提示使用`layui`
 * 象棋游戏使用`ajax`长轮询制作(主要当时不会websocket,有兴趣的小伙伴可以clone下去自己优化一下象棋)
-
 
 ***
 
